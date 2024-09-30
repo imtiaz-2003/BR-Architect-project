@@ -1,0 +1,18 @@
+#hero{
+    background-image: url("../assets/images/architect.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    min-height: 100vh;
+}
+
+#b-text{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 8px 12px;
+}
+#a-text{
+    letter-spacing: 2px;
+}
+#about-section img{
+    filter: grayscale(70%);
+}
